@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+html{
+
+     background-color: rgb(24, 46, 0);
+    background-image: url(DSC_3529.JPG);
+    background-size: 100% 100%; /* try cover, auto auto */
+    background-repeat: no-repeat; /* try repeat-y, no-repeat, repeat */
+    background-attachment: fixed; /* try scroll */
+    background-position: center; /* try top, right, bottom, left */
+}
+
+h1{
+    font-family: "Permanent Marker", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 550px;
+    color: rgb(76, 184, 88);
+
+}
+h2{
+    padding-left: 525px;
+    color: rgb(76, 184, 88);
+    
+}
+
+table, td, th {
+    border: 1px solid rgb(94, 46, 0);
+    text-align: center;
+    font-family: "Permanent Marker", serif;
+    color: rgb(89, 131, 94);
+    
+}
+
+
+th{
+    background-color: rgb(94, 46, 0);
+}
+td{
+    background-color: rgb(94, 46, 0, .4);
+
+
+}
+
+
